@@ -7,3 +7,5 @@ I am Kayitare Audax
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on Open source projects
 - 💬 Ask me about Fullstack development and Machine Learning
+
+<img src="https://github-readme-stats.vercel.app/api?username=kayitareAudax&show_icons=true&theme=radical" width="400">
