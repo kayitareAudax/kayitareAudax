@@ -7,5 +7,5 @@ I am Kayitare Audax
 - 🌱 I’m currently learning Machine Learning
 - 👯 I’m looking to collaborate on Open source projects
 - 💬 Ask me about Fullstack development and Machine Learning
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kayitareAudax)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://github-readme-stats.vercel.app/api?username=kayitareAudax&show_icons=true&theme=radical" width="400">
