@@ -3,8 +3,8 @@
 
 I am Kayitare Audax
 
-- 🔭 I’m currently working as an AI research assistant in the HKU Innovation Wing.
-- 🌱 I’m currently taking Data Science and Engineering at HKU.
+- 🌱 I’m currently pursuing Data Science and Finance at HKU.
+- 🔭 Working as an AI research assistant in the HKU Innovation Wing.
 - 👯 I’m looking to collaborate on Open source projects
 - 💬 Ask me about Fullstack development, RAG and Data Analytics
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kayitareAudax)](https://git.io/streak-stats)
